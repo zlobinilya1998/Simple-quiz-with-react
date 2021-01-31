@@ -1,0 +1,10 @@
+.question {
+  cursor: pointer;
+  background: rgb(230, 225, 220, 0.5);
+  transition: all 0.4s ease;
+}
+
+.question:hover {
+  background: rgb(230, 225, 220, 1);
+  color: rgb(30, 31, 30);
+}
